@@ -2,7 +2,7 @@
 print("文字を入力してください\n")
 str = gets.chomp
 if /fred$/ =~ str
-print("おｋ\n")
+print("せいふ\n")
 else
 print("あうとー\n")
 end
